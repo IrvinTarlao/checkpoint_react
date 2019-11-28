@@ -1,3 +1,10 @@
+Exercice concu par la Wild Code School et réalisé en autonomie.
+Live Demo : https://upbeat-payne-4c2085.netlify.com/
+
+
+
+
+
 # Checkpoint n°2 - 4h
 
 Pour ce travail tu as 4h devant toi. Ce checkpoint n'est pas un examen, il va nous permettre de valider tes compétences, essaye donc de le faire au maximum de ton côté.
